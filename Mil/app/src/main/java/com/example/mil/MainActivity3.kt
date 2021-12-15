@@ -27,7 +27,7 @@ class MainActivity3 : AppCompatActivity() {
         transGeoBtn = findViewById(R.id.geoButton)
         transGeoBtn.setOnClickListener(btnListener)
         geocoder = Geocoder(this)
-
+        //
     }
 
     private fun getLocation(){
