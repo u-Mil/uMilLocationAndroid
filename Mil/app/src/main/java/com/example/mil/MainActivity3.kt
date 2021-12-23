@@ -10,7 +10,7 @@ import android.widget.EditText
 import android.widget.TextView
 
 class MainActivity3 : AppCompatActivity() {
-
+    //
     private lateinit var geocoder: Geocoder
     private lateinit var txt1:TextView
     private lateinit var txt2:TextView
